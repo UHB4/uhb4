@@ -33,7 +33,7 @@
   <strong>배운 점:</strong> 첫 팀 프로젝트를 통해 기초적인 웹 개발 기술과 협업의 중요성을 배웠습니다. Git을 활용한 버전 관리와 커뮤니케이션 스킬을 향상시켰습니다.
 
 <h3>2. 웹소설 웹</h3>
-<strong>링크:</strong> <a href="https://github.com/WebNovelSecondProject/">GitHub</a><br>
+<strong>링크:</strong> <a href="https://github.com/UHB4/WebNovelSecondProject">GitHub</a><br>
 <strong>개발 기간:</strong> 2024.02.08 ~ 2024.03.05 (4명 팀 프로젝트)<br>
 <strong>사용 기술:</strong> Node.js, Express, EJS, Oracle DB<br>
 <strong>주요 기능:</strong>
