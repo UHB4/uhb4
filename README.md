@@ -21,7 +21,7 @@
 HTML, CSS, JavaScript 기초 학습   
 레퍼런스 사이트를 참고한 프로젝트 구현 
 
-- 🔭 두 번째 프로젝트 [웹소설페이지](https://uhb4.github.io/WebNovelSecondProject/)   
+- 🔭 두 번째 프로젝트 (https://uhb4.github.io/WebNovelSecondProject/)   
 개발기간   
 [2024.02-08 ~ 2024.03.05]  
 
