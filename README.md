@@ -65,9 +65,12 @@
   <strong>배운 점:</strong> 프로젝트 구조 최적화, 프론트엔드 성능 개선, 그리고 클라우드 배포 경험을 통해 실제 서비스 운영에 필요한 기술을 습득했습니다. 특히 GSAP를 활용한 고급 애니메이션 구현 능력을 향상시켰습니다.
 
 <h3>🌱 해본적있는것들:</h3>
-- 키워드분석 후 워드클라우드를 통해 시각화 
-- 시각화한 내용을 토대로 페르소나 선정
-- jupyter Notebook과 pandas를 활용한 데이터분석 (https://nbviewer.org/github/UHB4/HTML_Study/blob/master/%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80.ipynb)
+키워드분석 후 워드클라우드를 통해 시각화       
+
+
+시각화한 내용을 토대로 페르소나 선정   
+
+jupyter Notebook과 pandas를 활용한 데이터분석 (https://nbviewer.org/github/UHB4/HTML_Study/blob/master/%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80.ipynb)
 
 
 <h3>📫 연락처:</h3>
