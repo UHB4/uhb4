@@ -18,6 +18,17 @@
 개발기간   
 [2024.01-12 ~ 2024.01.18]   
 
-기본적인 html과 css그리고 javascript에 대한 이해를위해 레퍼런스사이트를 참고하여 제작하였습니다. 
+HTML, CSS, JavaScript 기초 학습   
+레퍼런스 사이트를 참고한 프로젝트 구현 
 
-- 🔭 두 번째 프로젝트 [웹소설페이지](https://uhb4.github.io/TEAMTWO/)
+- 🔭 두 번째 프로젝트 [웹소설페이지](https://uhb4.github.io/WebNovelSecondProject/)   
+개발기간   
+[2024.02-08 ~ 2024.03.05]  
+
+Node.js와 Express를 이용한 서버 구현   
+Oracle DB를 활용한 데이터베이스 설계 및 관리   
+EJS 템플릿 엔진을 사용한 프론트엔드 구현 
+기본적인 CRUD 작업 구현   
+RESTful API 설계 및 구현   
+관계형 데이터베이스 기본 쿼리 작성   
+서버 사이드 렌더링 기초
