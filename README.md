@@ -40,17 +40,19 @@
 - 사용자 인증 및 권한 관리
 - 웹소설 CRUD 기능
 - 댓글 시스템
-  <strong>배운 점:</strong> 서버 사이드 렌더링과 데이터베이스 설계의 기초를 익혔습니다. RESTful API 설계와 구현 경험을 통해 백엔드 개발의 핵심을 이해했습니다.
+  <strong>배운 점:</strong> 서버 사이드 렌더링과 데이터베이스 설계의 기초를 익혔습니다. RESTful API 설계와 구현 경험을 통해 백엔드 개발의 기초를 이해했습니다.
 
-<h3>3. 휴게소 정보 서비스</h3>
+<h3>3. 운전자 편의시설 제공</h3>
 <strong>링크:</strong> <a href="https://github.com/UHB4/rest_area/tree/master/client">GitHub</a><br>
 <strong>개발 기간:</strong> 2024.04.08 ~ 2024.05.07 (4명 팀 프로젝트)<br>
 <strong>사용 기술:</strong> React, Node.js, Express, Flask, Oracle DB, Redux, Kakao Maps SDK<br>
 <strong>주요 기능:</strong>
-- 실시간 휴게소 정보 제공
+- 실시간 휴게소,주유소,충전소 정보 제공
 - 지도 기반 휴게소 위치 표시
-- 사용자 리뷰 및 평점 시스템
-  <strong>배운 점:</strong> React와 Redux를 활용한 프론트엔드 상태 관리, 외부 API 연동, 그리고 복잡한 백엔드 아키텍처 설계 경험을 쌓았습니다. 특히 Flask를 활용한 마이크로서비스 아키텍처의 장단점을 이해했습니다.
+- 유가차트 정보제공
+- chatGPT api 사용 챗봇기능 제공 
+
+  <strong>배운 점:</strong> React와 Redux를 활용한 프론트엔드 상태 관리, 외부 API 연동, 그리고 복잡한 백엔드 아키텍처 설계 경험을 쌓았습니다.
 
 <h3>4. 스톱스캔 (개인 프로젝트)</h3>
 <strong>링크:</strong> <a href="https://stopscan.store">라이브 데모</a> | <a href="https://github.com/uhB4/stop_scan/">GitHub</a><br>
@@ -70,4 +72,3 @@
 
 <h3>📫 연락처:</h3>
 - 이메일: gusqls1658@naver.com
-
