@@ -57,7 +57,7 @@
 
 <h3>4. 스톱스캔 (개인 프로젝트)</h3>
 <strong>링크:</strong> <a href="https://stopscan.store">라이브 데모</a> | <a href="https://github.com/uhB4/stop_scan/">GitHub</a><br>
-<strong>개발 기간:</strong> 2024.07.12 ~ 2024.08.12<br>
+<strong>개발 기간:</strong> 2024.07.14 ~ 2024.08.12<br>
 <strong>사용 기술:</strong> React, Node.js, Express, AWS EC2, GSAP<br>
 <strong>주요 기능:</strong>
 - 스크롤 기반 애니메이션
