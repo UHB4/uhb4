@@ -25,21 +25,20 @@
 <strong>개발 기간:</strong> 2024.01.12 ~ 2024.01.18 (4명 팀 프로젝트)<br>
 <strong>사용 기술:</strong> HTML, CSS, JavaScript<br>
 <strong>주요 기능:</strong>
-- 메인페이지 
+- 메인페이지
 - 상품페이지
-- 차트 
+- 차트
 
 
-  <strong>배운 점:</strong> 첫 팀 프로젝트를 통해 기초적인 웹 개발 기술과 협업의 중요성을 배웠습니다. Git을 활용한 버전 관리와 커뮤니케이션 스킬을 향상시켰습니다.
+<strong>배운 점:</strong> 첫 팀 프로젝트를 통해 기초적인 웹 개발 기술과 협업의 중요성을 배웠습니다. Git을 활용한 버전 관리와 커뮤니케이션 스킬을 향상시켰습니다.
 
 <h3>2. 웹소설 웹</h3>
 <strong>링크:</strong> <a href="https://github.com/UHB4/WebNovelSecondProject">GitHub</a><br>
 <strong>개발 기간:</strong> 2024.02.08 ~ 2024.03.05 (4명 팀 프로젝트)<br>
 <strong>사용 기술:</strong> Node.js, Express, EJS, Oracle DB<br>
 <strong>주요 기능:</strong>
-- 사용자 인증 및 권한 관리
 - 웹소설 CRUD 기능
-- 댓글 시스템
+- 댓글 시스템   
   <strong>배운 점:</strong> 서버 사이드 렌더링과 데이터베이스 설계의 기초를 익혔습니다. RESTful API 설계와 구현 경험을 통해 백엔드 개발의 기초를 이해했습니다.
 
 <h3>3. 운전자 편의시설 제공</h3>
@@ -48,9 +47,10 @@
 <strong>사용 기술:</strong> React, Node.js, Express, Flask, Oracle DB, Redux, Kakao Maps SDK<br>
 <strong>주요 기능:</strong>
 - 실시간 휴게소,주유소,충전소 정보 제공
+- 제주 관광정보 제공
 - 지도 기반 휴게소 위치 표시
 - 유가차트 정보제공
-- chatGPT api 사용 챗봇기능 제공 
+- chatGPT api 사용 챗봇기능 제공
 
   <strong>배운 점:</strong> React와 Redux를 활용한 프론트엔드 상태 관리, 외부 API 연동, 그리고 복잡한 백엔드 아키텍처 설계 경험을 쌓았습니다.
 
@@ -61,14 +61,14 @@
 <strong>주요 기능:</strong>
 - 스크롤 기반 애니메이션
 - 반응형 디자인
-- AWS 클라우드 배포
+- AWS 클라우드 배포   
   <strong>배운 점:</strong> 프로젝트 구조 최적화, 프론트엔드 성능 개선, 그리고 클라우드 배포 경험을 통해 실제 서비스 운영에 필요한 기술을 습득했습니다. 특히 GSAP를 활용한 고급 애니메이션 구현 능력을 향상시켰습니다.
 
 <h3>🌱 해본적있는것들:</h3>
-키워드분석 후 워드클라우드를 통해 시각화       
+키워드분석 후 워드클라우드를 통해 시각화
 
 
-시각화한 내용을 토대로 페르소나 선정   
+시각화한 내용을 토대로 페르소나 선정
 
 jupyter Notebook과 pandas를 활용한 데이터분석 (https://nbviewer.org/github/UHB4/HTML_Study/blob/master/%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80.ipynb)
 
