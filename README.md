@@ -72,8 +72,7 @@
 
 시각화한 내용을 토대로 페르소나 선정
 
-jupyter Notebook과 pandas를 활용한 데이터분석 (https://nbviewer.org/github/UHB4/HTML_Study/blob/master/%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80.ipynb](https://nbviewer.org/github/UHB4/HTML_Study/blob/master/%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%EB%B6%84%EC%84%9D.ipynb)
-
+jupyter Notebook과 pandas를 활용한 데이터분석 (https://nbviewer.org/github/UHB4/HTML_Study/blob/master/%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%EB%B6%84%EC%84%9D.ipynb)
 
 <h3>📫 연락처:</h3>
 - 이메일: gusqls1658@naver.com
