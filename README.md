@@ -55,7 +55,7 @@
 
   <strong>배운 점:</strong> React와 Redux를 활용한 프론트엔드 상태 관리, 외부 API 연동, 그리고 복잡한 백엔드 아키텍처 설계 경험을 쌓았습니다.
 
-<h3>4. 스톱스캔 (개인 프로젝트)</h3>
+<h3>4. 스톱스캔 리뉴얼 (개인 프로젝트)</h3>
 <strong>링크:</strong> <a href="https://stopscan.store">라이브 데모</a> | <a href="https://github.com/uhB4/stop_scan/">GitHub</a><br>
 <strong>개발 기간:</strong> 2024.07.14 ~ 2024.08.12<br>
 <strong>사용 기술:</strong> React, Node.js, Express, AWS EC2, GSAP<br>
